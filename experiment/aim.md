@@ -1,1 +1,1 @@
-### Aim of the experiment
+<h3>To study hypothesis testing (comparing means of two population with equal unknown variances).</h3>
