@@ -1,0 +1,20 @@
+[
+   {
+      "question": "While comparing the two population means with unknown but equal variance it is assumed that",
+      "qid": 1,
+      "option_a": "Both the sample have drawn from same population",
+      "option_b": "Both the sample are of same size",
+      "option_c": "Both the sample should be independent",
+      "option_d": "Both the samples should be dependent",
+      "correct_option": "c"
+   },
+   {
+      "question": "The two sample t-test can be conducted for the population which are",
+      "qid": 2,
+      "option_a": "normally distributed",
+      "option_b": "non-normal",
+      "option_c": "",
+      "option_d": "",
+      "correct_option": "a"
+   }
+]
