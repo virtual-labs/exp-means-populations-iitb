@@ -1,0 +1,263 @@
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/js/activity1.js
+   21:10  warning  'start_act1' is defined but never used    no-unused-vars
+   24:20  warning  'get_collapse_btn_text' is not defined    no-undef
+   32:34  warning  'N1' is not defined                       no-undef
+   35:34  warning  'N2' is not defined                       no-undef
+   77:22  warning  'MathJax' is not defined                  no-undef
+   78:5   warning  'hide_all_steps' is not defined           no-undef
+   80:9   warning  'show_step' is not defined                no-undef
+   85:5   warning  'X1' is not defined                       no-undef
+   86:5   warning  'X2' is not defined                       no-undef
+   87:5   warning  'X1_bar' is not defined                   no-undef
+   88:5   warning  'X2_bar' is not defined                   no-undef
+   91:26  warning  'N1' is not defined                       no-undef
+   95:13  warning  'X1_bar' is not defined                   no-undef
+   98:26  warning  'N2' is not defined                       no-undef
+  102:13  warning  'X2_bar' is not defined                   no-undef
+  105:5   warning  'X1_bar' is not defined                   no-undef
+  105:26  warning  'X1_bar' is not defined                   no-undef
+  105:35  warning  'N1' is not defined                       no-undef
+  106:5   warning  'X2_bar' is not defined                   no-undef
+  106:26  warning  'X2_bar' is not defined                   no-undef
+  106:35  warning  'N2' is not defined                       no-undef
+  107:5   warning  'X1' is not defined                       no-undef
+  108:5   warning  'X2' is not defined                       no-undef
+  114:25  warning  'N1' is not defined                       no-undef
+  115:36  warning  'X1' is not defined                       no-undef
+  116:36  warning  'X2' is not defined                       no-undef
+  119:10  warning  'verify_x_bar' is defined but never used  no-unused-vars
+  122:17  warning  'X1_bar' is not defined                   no-undef
+  122:25  warning  'X2_bar' is not defined                   no-undef
+  123:10  warning  'verify_values' is not defined            no-undef
+  123:54  warning  'X1_bar' is not defined                   no-undef
+  132:10  warning  'verify_values' is not defined            no-undef
+  132:54  warning  'X2_bar' is not defined                   no-undef
+  147:60  warning  'X1_bar' is not defined                   no-undef
+  150:60  warning  'X2_bar' is not defined                   no-undef
+  156:22  warning  'MathJax' is not defined                  no-undef
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/js/activity1_p1.js
+    1:10  warning  'activity1_p1' is defined but never used    no-unused-vars
+    5:19  warning  'get_collapse_btn_text' is not defined      no-undef
+    6:5   warning  'maindiv' is not defined                    no-undef
+   23:22  warning  'MathJax' is not defined                    no-undef
+   24:5   warning  'hide_all_steps' is not defined             no-undef
+   26:9   warning  'show_step' is not defined                  no-undef
+   39:19  warning  'Verify_Rows_Cols' is not defined           no-undef
+   39:44  warning  'act1_table_data_1' is not defined          no-undef
+   43:5   warning  'act1_table_data_1' is not defined          no-undef
+   44:5   warning  'sum_x1_x1_bar_sq' is not defined           no-undef
+   45:5   warning  'sum_x2_x2_bar_sq' is not defined           no-undef
+   46:5   warning  'S1_sq' is not defined                      no-undef
+   47:5   warning  'S2_sq' is not defined                      no-undef
+   48:5   warning  'Sp_sq' is not defined                      no-undef
+   49:25  warning  'N1' is not defined                         no-undef
+   51:33  warning  'X1' is not defined                         no-undef
+   51:41  warning  'X1_bar' is not defined                     no-undef
+   52:33  warning  'X2' is not defined                         no-undef
+   52:41  warning  'X2_bar' is not defined                     no-undef
+   55:18  warning  'X1' is not defined                         no-undef
+   56:18  warning  'X2' is not defined                         no-undef
+   61:9   warning  'act1_table_data_1' is not defined          no-undef
+   62:9   warning  'sum_x1_x1_bar_sq' is not defined           no-undef
+   63:9   warning  'sum_x2_x2_bar_sq' is not defined           no-undef
+   65:5   warning  'sum_x1_x1_bar_sq' is not defined           no-undef
+   65:35  warning  'sum_x1_x1_bar_sq' is not defined           no-undef
+   66:5   warning  'sum_x2_x2_bar_sq' is not defined           no-undef
+   66:35  warning  'sum_x2_x2_bar_sq' is not defined           no-undef
+   67:5   warning  'S1_sq' is not defined                      no-undef
+   67:25  warning  'sum_x1_x1_bar_sq' is not defined           no-undef
+   67:45  warning  'N1' is not defined                         no-undef
+   68:5   warning  'S2_sq' is not defined                      no-undef
+   68:25  warning  'sum_x2_x2_bar_sq' is not defined           no-undef
+   68:45  warning  'N2' is not defined                         no-undef
+   69:5   warning  'Sp_sq' is not defined                      no-undef
+   69:27  warning  'N1' is not defined                         no-undef
+   69:37  warning  'S1_sq' is not defined                      no-undef
+   69:46  warning  'N2' is not defined                         no-undef
+   69:56  warning  'S2_sq' is not defined                      no-undef
+   69:66  warning  'N1' is not defined                         no-undef
+   69:71  warning  'N2' is not defined                         no-undef
+   79:31  warning  Unnecessary escape character: \Σ            no-useless-escape
+   87:31  warning  Unnecessary escape character: \Σ            no-useless-escape
+   97:22  warning  'MathJax' is not defined                    no-undef
+   99:10  warning  'verify_s_sq' is defined but never used     no-unused-vars
+  102:17  warning  'S1_sq' is not defined                      no-undef
+  102:24  warning  'S2_sq' is not defined                      no-undef
+  103:10  warning  'verify_values' is not defined              no-undef
+  103:50  warning  'S1_sq' is not defined                      no-undef
+  112:10  warning  'verify_values' is not defined              no-undef
+  112:50  warning  'S2_sq' is not defined                      no-undef
+  127:28  warning  Unnecessary escape character: \Σ            no-useless-escape
+  127:66  warning  'S1_sq' is not defined                      no-undef
+  130:28  warning  Unnecessary escape character: \Σ            no-useless-escape
+  130:66  warning  'S2_sq' is not defined                      no-undef
+  136:22  warning  'MathJax' is not defined                    no-undef
+  138:10  warning  'a1_load_sp_div' is defined but never used  no-unused-vars
+  157:22  warning  'MathJax' is not defined                    no-undef
+  159:10  warning  'verify_sp' is defined but never used       no-unused-vars
+  161:17  warning  'Sp_sq' is not defined                      no-undef
+  162:10  warning  'verify_values' is not defined              no-undef
+  162:50  warning  'Sp_sq' is not defined                      no-undef
+  176:71  warning  'Sp_sq' is not defined                      no-undef
+  181:22  warning  'MathJax' is not defined                    no-undef
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/js/activity1_p2.js
+    1:10  warning  'activity1_p2' is defined but never used      no-unused-vars
+    4:5   warning  't' is not defined                            no-undef
+    5:5   warning  't' is not defined                            no-undef
+    5:22  warning  'X1_bar' is not defined                       no-undef
+    5:31  warning  'X2_bar' is not defined                       no-undef
+    6:20  warning  'Sp_sq' is not defined                        no-undef
+    6:43  warning  'N1' is not defined                           no-undef
+    6:52  warning  'N2' is not defined                           no-undef
+    7:19  warning  'get_collapse_btn_text' is not defined        no-undef
+    8:5   warning  'maindiv' is not defined                      no-undef
+   19:55  warning  'alpha' is not defined                        no-undef
+   37:9   warning  'MathJax' is not defined                      no-undef
+   40:19  warning  'Show_Table' is not defined                   no-undef
+   40:89  warning  't_table_data' is not defined                 no-undef
+   42:5   warning  'hide_all_steps' is not defined               no-undef
+   44:9   warning  'show_step' is not defined                    no-undef
+   47:10  warning  'verify_threshold' is defined but never used  no-unused-vars
+   49:17  warning  't1' is not defined                           no-undef
+   50:10  warning  'verify_values' is not defined                no-undef
+   50:50  warning  't1' is not defined                           no-undef
+   64:46  warning  't1' is not defined                           no-undef
+   69:22  warning  'MathJax' is not defined                      no-undef
+   71:10  warning  'a1_load_t_div' is defined but never used     no-unused-vars
+   91:22  warning  'MathJax' is not defined                      no-undef
+   93:10  warning  'verify_t' is defined but never used          no-unused-vars
+   95:17  warning  't' is not defined                            no-undef
+   96:10  warning  'verify_values' is not defined                no-undef
+   96:49  warning  't' is not defined                            no-undef
+  110:91  warning  't' is not defined                            no-undef
+  115:22  warning  'MathJax' is not defined                      no-undef
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/js/activity1_p3.js
+   1:10   warning  'activity1_p3' is defined but never used     no-unused-vars
+   4:19   warning  'get_collapse_btn_text' is not defined       no-undef
+   5:5    warning  'maindiv' is not defined                     no-undef
+  13:49   warning  't1' is not defined                          no-undef
+  16:100  warning  't' is not defined                           no-undef
+  48:22   warning  'MathJax' is not defined                     no-undef
+  49:5    warning  'hide_all_steps' is not defined              no-undef
+  51:9    warning  'show_step' is not defined                   no-undef
+  56:18   warning  't' is not defined                           no-undef
+  56:23   warning  't1' is not defined                          no-undef
+  57:9    warning  'hypo_test_reject_op_a1' is not defined      no-undef
+  60:9    warning  'hypo_test_reject_op_a1' is not defined      no-undef
+  63:10   warning  'a1_vf_null_hypo' is defined but never used  no-unused-vars
+  67:9    warning  'hypo_test_reject_op_a1' is not defined      no-undef
+  70:14   warning  'hypo_test_reject_op_a1' is not defined      no-undef
+  73:25   warning  'hypo_test_reject_op_a1' is not defined      no-undef
+  87:10   warning  'a1_completed' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/js/chi_sq_dist_table.js
+  1:5  warning  'chi_sq_dist_table' is assigned a value but never used  no-unused-vars
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/js/data.js
+   2:5   warning  'z_table_data' is assigned a value but never used            no-unused-vars
+   2:20  warning  'z_table' is not defined                                     no-undef
+  12:14  warning  'chi_sq_dist_table' is not defined                           no-undef
+  13:14  warning  'chi_sq_dist_table' is not defined                           no-undef
+  14:14  warning  'chi_sq_dist_table' is not defined                           no-undef
+  20:9   warning  't_table_one_tailed' is not defined                          no-undef
+  21:9   warning  't_table_one_tailed' is not defined                          no-undef
+  22:9   warning  't_table_one_tailed' is not defined                          no-undef
+  23:9   warning  't_table_one_tailed' is not defined                          no-undef
+  28:5   warning  'N1' is assigned a value but never used                      no-unused-vars
+  29:5   warning  'N2' is assigned a value but never used                      no-unused-vars
+  30:5   warning  'X1' is assigned a value but never used                      no-unused-vars
+  33:5   warning  'X2' is assigned a value but never used                      no-unused-vars
+  37:5   warning  'alpha' is assigned a value but never used                   no-unused-vars
+  38:5   warning  'X1_bar' is assigned a value but never used                  no-unused-vars
+  39:5   warning  'X2_bar' is assigned a value but never used                  no-unused-vars
+  40:5   warning  'S1_sq' is assigned a value but never used                   no-unused-vars
+  41:5   warning  'S2_sq' is assigned a value but never used                   no-unused-vars
+  42:5   warning  'Sp_sq' is assigned a value but never used                   no-unused-vars
+  43:5   warning  't' is assigned a value but never used                       no-unused-vars
+  45:5   warning  't1' is assigned a value but never used                      no-unused-vars
+  48:5   warning  'sum_x1_x1_bar_sq' is assigned a value but never used        no-unused-vars
+  49:5   warning  'sum_x2_x2_bar_sq' is assigned a value but never used        no-unused-vars
+  50:5   warning  'act1_table_data_1' is assigned a value but never used       no-unused-vars
+  63:5   warning  'hypothesis_table' is assigned a value but never used        no-unused-vars
+  81:5   warning  'hypo_test_reject_op_a1' is assigned a value but never used  no-unused-vars
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/js/t_table_data.js
+    1:5  warning  't_distribution_data' is assigned a value but never used  no-unused-vars
+  375:5  warning  't_table_one_tailed' is assigned a value but never used   no-unused-vars
+
+/home/runner/work/exp-means-populations-iitb/exp-means-populations-iitb/experiment/simulation/js/z-table.js
+  1:5  warning  'z_table' is assigned a value but never used  no-unused-vars
+
+✖ 228 problems (0 errors, 228 warnings)
+
