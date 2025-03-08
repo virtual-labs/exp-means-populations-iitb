@@ -1,0 +1,20 @@
+[
+   {
+      "question": "In the two sample t-test problem, the population variance is to be estimated by using",
+      "qid": 1,
+      "option_a": "difference between two sample mean squares",
+      "option_b": "sample mean square of first sample only",
+      "option_c": "sample mean square of second sample only",
+      "option_d": "mean square for pooled samples",
+      "correct_option": "d"
+   },
+   {
+      "question": "While testing the two sample t-test problem with samples of sizes n<sub>1</sub> and n<sub>2</sub> respectively, the test statistic follows",
+      "qid": 2,
+      "option_a": "t distribution with n<sub>1</sub> df",
+      "option_b": "t distribution with  n<sub>2</sub> df",
+      "option_c": "t distribution with (n<sub>1</sub>+n<sub>2</sub>-2) df",
+      "option_d": "t distribution with (n<sub>1</sub>+n<sub>2</sub>) df",
+      "correct_option": "c"
+   }
+]

@@ -1,1 +1,1 @@
-## Experiment name
+## Hypothesis Testing Comparing Means of two populations : variances unknown but assumed equal
